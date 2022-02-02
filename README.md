@@ -1,4 +1,4 @@
-change test
+change
 
 # TechTrain HTML/CSS/JavaScript Railway について
 
